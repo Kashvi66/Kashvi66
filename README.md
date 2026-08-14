@@ -1,4 +1,4 @@
-# 💫 Hey, I'm Kashvi Javia!
+# 💫 Holaa, I'm Kashvi Javia!
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=Computer+Science+Engineering+Student+%F0%9F%92%BB;AI+%26+ML+Enthusiast+%F0%9F%A4%96;Robotics+%26+Arduino+Explorer+%F0%9F%A4%96;Building+Ideas+Into+Reality+%F0%9F%9A%80" />

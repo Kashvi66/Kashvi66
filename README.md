@@ -1,20 +1,16 @@
-# 💙 Holaa, I'm Kashvi Javia!
+# 💫 Hey, I'm Kashvi Javia!
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=Computer+Science+Engineering+Student+%F0%9F%92%BB;AI+%26+ML+Enthusiast+%F0%9F%A4%96;Robotics+%26+Arduino+Explorer+%F0%9F%A4%96;Building+Ideas+Into+Reality+%F0%9F%9A%80" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=Computer+Science+Engineering+Student+%F0%9F%92%BB;AI+%26+ML+Enthusiast+%F0%9F%A4%96;Robotics+%26+Arduino+Explorer+%F0%9F%A4%96;Building+Ideas+Into+Reality+%F0%9F%9A%80" />
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:0369A1,100:38BDF8&height=200&section=header&text=Welcome%20to%20my%20GitHub!&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=PROFILE%20VIEWS&color=0EA5E9&style=for-the-badge" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Welcome%20to%20my%20GitHub!&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 </p>
 
 ---
 
-## 💙 About Me
+## 🌌 About Me
 
 ```python
 class Kashvi:
@@ -47,7 +43,7 @@ class Kashvi:
 
 ---
 
-## 🌊 What I'm Exploring
+## 🧠 What I'm Exploring
 
 <table>
 <tr>
@@ -56,7 +52,7 @@ class Kashvi:
 
 ### 🤖 AI / ML
 
-Exploring intelligent systems, machine learning and AI-powered solutions.
+Learning how intelligent systems think, learn and make decisions.
 
 </td>
 
@@ -72,7 +68,7 @@ Building robots that can sense, move and interact with the world.
 
 ### 🔌 Electronics
 
-Working with Arduino, sensors, motors and real-world hardware.
+Arduino, sensors, motors and real-world hardware.
 
 </td>
 
@@ -80,7 +76,7 @@ Working with Arduino, sensors, motors and real-world hardware.
 
 ### 💻 Development
 
-Turning ideas into useful software and creative projects.
+Turning ideas into working software and projects.
 
 </td>
 
@@ -91,16 +87,16 @@ Turning ideas into useful software and creative projects.
 
 ## 🛠️ Tech Stack
 
-### 💻 Programming Languages
+### 💻 Languages
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,java" />
+<p>
+<img src="https://skillicons.dev/icons?i=c,cpp,python,java" />
 </p>
 
 ### ⚙️ Tools & Technologies
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=arduino,git,github,linux,ubuntu,vscode" />
+<p>
+<img src="https://skillicons.dev/icons?i=arduino,git,github,linux,ubuntu,vscode" />
 </p>
 
 ---
@@ -117,16 +113,18 @@ An intelligent agricultural robot designed for:
 * 💧 Precision spraying
 * 📡 Sensor-based navigation
 
-**Technologies:** Robotics • Computer Vision • Motors • Sensors
+**Tech:** Robotics • Computer Vision • Motors • Sensors
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&bg_color=0F172A&title_color=38BDF8&icon_color=0EA5E9&text_color=CBD5E1&hide_border=true&border_radius=15" />
 
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&bg_color=0F172A&title_color=38BDF8&text_color=CBD5E1&hide_border=true&border_radius=15" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15" />
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&border_radius=15" />
+
 </p>
 
 ---
@@ -134,23 +132,15 @@ An intelligent agricultural robot designed for:
 ## 🔥 Contribution Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&background=0F172A&ring=38BDF8&fire=0EA5E9&currStreakLabel=38BDF8&sideLabels=CBD5E1&dates=64748B&hide_border=true&border_radius=15" />
+<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&border_radius=15" />
 </p>
 
 ---
 
-## 📈 My GitHub Activity
+## 🐍 My Contributions
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0F172A&color=38BDF8&line=0EA5E9&point=7DD3FC&area=true&hide_border=true&radius=16" />
-</p>
-
----
-
-## 🐍 Contribution Journey
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
@@ -160,11 +150,11 @@ An intelligent agricultural robot designed for:
 <p align="center">
 
 <a href="https://github.com/YOUR_USERNAME">
-  <img src="https://skillicons.dev/icons?i=github" width="50"/>
+<img src="https://skillicons.dev/icons?i=github" width="50"/>
 </a>
 
 <a href="https://www.linkedin.com/">
-  <img src="https://skillicons.dev/icons?i=linkedin" width="50"/>
+<img src="https://skillicons.dev/icons?i=linkedin" width="50"/>
 </a>
 
 </p>
@@ -173,8 +163,8 @@ An intelligent agricultural robot designed for:
 
 <p align="center">
 
-### 💙 Code • Create • Learn • Repeat 🚀
+### ✨ Code. Create. Learn. Repeat. ✨
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,50:0369A1,100:0F172A&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
 
 </p>

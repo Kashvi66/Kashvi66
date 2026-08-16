@@ -136,7 +136,7 @@ An intelligent agricultural robot designed for:
 ## 🔥 Contribution Streak
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=Jyuri1010&theme=tokyonight&background=0F172A&ring=38BDF8&fire=0EA5E9&currStreakLabel=38BDF8&sideLabels=CBD5E1&dates=64748B&hide_border=true&border_radius=15" />
+<img src="https://streak-stats.demolab.com?user=Kashvi66&theme=tokyonight&background=0F172A&ring=38BDF8&fire=0EA5E9&currStreakLabel=38BDF8&sideLabels=CBD5E1&dates=64748B&hide_border=true&border_radius=15" />
 </p>
 
 ---
@@ -144,7 +144,7 @@ An intelligent agricultural robot designed for:
 ## 📈 My GitHub Activity
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Jyuri1010&bg_color=0F172A&color=38BDF8&line=0EA5E9&point=7DD3FC&area=true&hide_border=true&radius=16" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Kashvi66&bg_color=0F172A&color=38BDF8&line=0EA5E9&point=7DD3FC&area=true&hide_border=true&radius=16" />
 </p>
 
 ---
